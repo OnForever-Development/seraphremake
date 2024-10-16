@@ -1,4 +1,5 @@
 <img src="images/seraphbanner.jpg">
+<h1> Seraph Remake | A remade version of the original seraph which can be found at https://github.com/a456pur/seraph </h1>
   <p align="center">
     seraph; an open source game website that hosts 350+ games with customisable settings, full rehosting support and a beautiful design
     <br/>
@@ -55,12 +56,6 @@ although i dont mind not being credited, please don't just do something as simpl
 
 tldr; take anything game/app you want without credit!! add/modify seraph if you want, however don't replace my credit on the actual site if you can
 
-## contributing
-you can contribute to seraph in multiple ways by [raising issues on the github](https://github.com/a456pur/seraph/issues/new/choose), which can include:
-- **game suggestions:** suggest games to be added to seraph! provide a link if possible to the game to make it easier to add
-- **website suggestions:** suggest features to be added to the website
-- **website bugs:** report bugs you are experiencing with the website (not inside a game), providing some simple steps on how to replicate the bug
-- **game bugs:** report bugs that are happening during gameplay of a particular game
 
 
 
