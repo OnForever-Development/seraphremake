@@ -8,8 +8,14 @@
 
           gtag('config', 'G-7FN7LEVWXD');
         </script>
-<script> // Redirect to maintenance page if maintenance mode is enabled window.onload = function () { if (localStorage.getItem("maintenanceMode") === "true" && !window.location.href.includes("https://seraphremake.vercel.app/maintence/index.html")) { window.location.href = "https://seraphremake.vercel.app/maintence/index.html"; } }; </script>
-
+    <script>
+        // Redirect to maintenance page if maintenance mode is enabled
+        window.onload = function () {
+            if (localStorage.getItem("maintenanceMode") === "true" && !window.location.href.includes("https://seraphremake.vercel.app/maintence/index.html")) {
+                window.location.href = "https://seraphremake.vercel.app/maintence/index.html";
+            }
+        };
+    </script>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="shortcut icon" href="/images/ico.ico" type="image/x-icon">
